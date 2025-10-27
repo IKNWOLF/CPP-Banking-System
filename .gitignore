@@ -1,11 +1,12 @@
-# Visual Studio
+# Visual Studio build folders
+x64/
+bin/
+obj/
 .vs/
+
+# Visual Studio user files
 *.user
 *.suo
 *.VC.db
 *.VC.VC.opendb
 *.log
-
-# Build folders
-bin/
-obj/
