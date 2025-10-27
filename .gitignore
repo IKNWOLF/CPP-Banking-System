@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.log
+
+# Build folders
+bin/
+obj/
